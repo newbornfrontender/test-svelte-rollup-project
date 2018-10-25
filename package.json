@@ -12,7 +12,8 @@
     "rollup-plugin-node-resolve": "^3.4.0",
     "rollup-plugin-serve": "^0.6.0",
     "rollup-plugin-svelte": "^4.3.2",
-    "rollup-plugin-terser": "^3.0.0"
+    "rollup-plugin-terser": "^3.0.0",
+    "svelte": "^2.14.3"
   },
   "scripts": {
     "build": "rollup -c",
