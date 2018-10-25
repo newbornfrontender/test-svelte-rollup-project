@@ -16,7 +16,7 @@
     "svelte": "^2.14.3"
   },
   "scripts": {
-    "build": "rollup -c",
-    "autobuild": "rollup -c -w"
+    "build": "rollup --config",
+    "build:watch": "rollup --config --watch"
   }
 }
