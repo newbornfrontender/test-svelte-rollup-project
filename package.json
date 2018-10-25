@@ -1,0 +1,9 @@
+{
+  "name": "test-svelte-rollup-project",
+  "version": "1.0.0",
+  "description": "Тестовый проект на Rollup для знакомства с Svelte",
+  "repository": "https://github.com/newbornfrontender/test-svelte-rollup-project.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
